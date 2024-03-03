@@ -61,6 +61,13 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Should display "Developer" for the user name.
 
+#Module 4: card number length (second ticket)
+1. Build and run Cico
+2. Press and hold down any number for 3 seconds
+3. exit application
+
+## Expectations results -> after step 2, the numbers should stop at 8 digits
+
 
 # MODULE 5
 ## Test steps
