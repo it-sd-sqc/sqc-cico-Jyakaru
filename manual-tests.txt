@@ -72,3 +72,16 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 
 ## EXPECTED RESULTS
 * Shouldn't prompt to terminate session of the app after exiting IDE
+
+# Module 6
+## Test Steps: 
+1 Build and run CiCo
+2 Enter Valid Card Number
+3 Press Enter
+4 Allow to timeout or clear using button
+5 Enter Invalid Card Number
+6 Press Enter
+7 Allow to Timeout or Clear
+
+## Expected Results: 
+* New color scheme should show on every page.
